@@ -1,0 +1,8 @@
+{
+  "name": "shop-mobile",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "shop-mobile/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
